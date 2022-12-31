@@ -6,9 +6,8 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### How The Website Looks :
-![Website Image](Credit card landing page.png)
+![Website Image](./Assets/Credit%20card%20landing%20page.png)
 
 ### Live Link Of The Website :
 [Live Link](https://pavan-credit-card-landing-page.netlify.app)
 
-C:\Users\PAVAN\Desktop\Credit_Card_Landing_Page\Credit card landing page.png
